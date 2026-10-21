@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.DS_Store
+*.zip
+it_vacancies_2024.csv
+hh/
